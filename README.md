@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**Zxyn-Cybr/Zxyn-Cybr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there, I'm Aqwervin! 👋  
+Welcome to my GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me  
+I’m a **Full Stack Developer** passionate about building powerful web and mobile applications, with a strong foundation in **PHP (Laravel)**. I also explore and develop in modern JavaScript frameworks and IoT integrations.
+
+---
+
+### 🛠️ Tech Stack  
+**Frontend**  
+- React.js  
+- Next.js  
+- Flutter  
+
+**Backend**  
+- PHP (Laravel)  
+- Node.js (Express.js)  
+
+**Databases**  
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+**Others**  
+- IoT Development  
+- Computer Service & Troubleshooting  
+- IT Instructor  
+
+---
+
+### 🎓 IT Educator & Content Creator  
+- Teaching IT and software development to students and professionals  
+- Sharing tutorials and tech content 
+- Follow my tech journey on Instagram: [@Aqwervin](https://www.instagram.com/aqwervin)
+
+---
+
+### 📫 Let's Connect  
+- GitHub: [Zxyn-Cybr](https://github.com/Zxyn-Cybr)  
+- Instagram: [@Aqwervin](https://www.instagram.com/aqwervin)  
+
+---
+
+### ⚡ Fun Fact  
+I combine my passion for software development with hands-on IoT projects and teaching—bridging code and hardware to create real-world solutions.
+
+---
